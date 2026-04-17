@@ -69,6 +69,7 @@ const tierFeatures = {
       "Calendly or booking widget integration",
       "Blog section — ready to publish on day one",
       "Enhanced lead capture with thank-you redirect",
+      "Google Analytics setup & configuration",
       "Priority turnaround & faster revision cycles"
     ],
     authority: [
@@ -96,6 +97,7 @@ const tierFeatures = {
       "Trust section: logos, reviews, or proof badges",
       "Calendly or booking embed integration",
       "Thank-you page with follow-up CTA",
+      "Google Analytics setup & configuration",
       "Priority turnaround & faster revision cycles"
     ],
     authority: [
@@ -123,6 +125,7 @@ const tierFeatures = {
       "Improved CTA placement & conversion flow",
       "Contact form rebuild or repair",
       "Calendly booking integration",
+      "Google Analytics setup & configuration",
       "Priority turnaround & faster revision cycles"
     ],
     authority: [
